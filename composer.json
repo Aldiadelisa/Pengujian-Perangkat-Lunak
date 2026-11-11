@@ -1,0 +1,9 @@
+{
+    "name": "polbeng/belajar-phpunit",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
